@@ -1,3 +1,5 @@
+package darkpool.model;
+
 public class Order{
 
     public int orderId = 0;
